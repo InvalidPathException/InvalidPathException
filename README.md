@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**InvalidPathException/InvalidPathException** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2><samp> Hi, this is Mark. </samp></h2>
+  <p><samp>
+    Current Software Developer Intern at <a href="https://www.ciena.com/">Ciena</a>.
+    </br>
+    Learning how programming languages work by building <a href="https://github.com/InvalidPathException/wagmi">a simple Wasm interperter in Rust</a>.
+    </br>
+  </p></samp>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/m-z-ding)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:InvalidPathException@gmail.com)
+  </br>
+</div>
