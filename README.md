@@ -1,8 +1,8 @@
 <div align="center">
   <p><samp>
-    Current MLE Intern at <a href="https://www.quora.com/">Quora</a>.
+    Current SWE Intern at <a href="https://stripe.com">Stripe</a>.
     </br>
-    Previous SDE Intern at <a href="https://aws.amazon.com/">AWS</a> & <a href="https://www.ciena.com/">Ciena</a>.
+    Previous MLE Intern at <a href="https://www.quora.com/">Quora</a>, SWE Intern at <a href="https://aws.amazon.com/">AWS</a> & <a href="https://www.ciena.com/">Ciena</a>.
     </br>
     Interested in ML, VMs, and Rust.
   </p></samp>
